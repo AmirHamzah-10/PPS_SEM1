@@ -16,10 +16,10 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **2** |
-| 🟡 Medium | **5** |
+| 🟢 Easy | **1** |
+| 🟡 Medium | **4** |
 | 🔴 Hard | **0** |
-| **Total** | **7** |
+| **Total** | **5** |
 
 ## 🛠️ Languages
 
